@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{8302efdd-9d63-4995-bd6f-01fa258c0547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{e25be44b-69f5-4e77-83cb-d68635f2f9eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fileReader.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Gameplay.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="GAMESTATES.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="HighscoreTable.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="License.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalButton.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Splash.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Story.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Xbox360Controller.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="fileReader.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="gameplay.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="HighscoreTable.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="License.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalButton.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Options.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="splash.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Story.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Xbox360Controller.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
